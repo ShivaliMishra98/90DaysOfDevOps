@@ -1,4 +1,4 @@
-# Foundation for DevOps Jouney:
+# Foundation for DevOps Journey:
 - Understanding of DevOps and CloudEngineering : DevOps is a collaboration of the Development team (who creates the app) and Operations team (who performs testing, deploys, etc). It was the mindset of Patrick Debois who wanted to reduce the "time to market". Cloud Engineering is the core cloud concepts required to become a DevOps engineer.
 - Why? : Because I want to learn all the tools as I'm interested and get a job as a DevOps/ Cloud engineer. I'm interested to learn tools to automate any process.
 - Where do you want to reach? : I want to become a DevOps engineer and earn in a good company with gaining lots of experiences and keep upskilling myself.
